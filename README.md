@@ -1,3 +1,15 @@
+![AWS DevOps Guide with Cloud Security](./AWS%20DevOps%20guide%20with%20cloud%20security.png)
+
+# 🚀 AWS Scenario-Based Interview Questions | EC2, IAM & VPC Complete Guide for DevOps Engineers
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://blogs.hritikranjan.in/series/aws-devops)
+[![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=devops&logoColor=white)](https://blogs.hritikranjan.in/series/devops-journey)
+[![Website](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blogs.hritikranjan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritikranjan1)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luvranjan143)
+
+---
+
 ## 📘 Introduction
 
 In real-world DevOps interviews, interviewers usually don't ask only theoretical questions like **"What is EC2?"** or **"What is VPC?"**.
